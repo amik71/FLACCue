@@ -57,3 +57,6 @@ cd /volume1/@appstore/py3k/usr/local/bin
 
 I've also included an unsigned spk file you can install directly at your own
 risk in the synology_package directory.
+
+Some more info can be found at Plex forum thread: https://forums.plex.tv/t/flac-cue-sheet-support/292195
+
